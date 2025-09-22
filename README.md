@@ -1,19 +1,19 @@
 [![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Allowz</h1>
+<h1 align="center">Hi 👋, I'm Tosi</h1>
 <h3 align="center">A passionate red team dev</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=allowz&label=Profile%20views&color=0e75b6&style=flat" alt="allowz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=allowz&label=Profile%20views&color=0e75b6&style=flat" alt="tosi" /> </p>
 
 - 🔭 I’m currently working on **Ps4 JB**
 
-- 🌱 I’m currently learning **Networking**
+- 🌱 **Network Engineer**
 
 - 👯 I’m looking to collaborate on **Ps5 JB**
 
 - 💬 Ask me about **Ps4 JB (Gold hen v900)**
 
-- 📫 How to reach me **allowz@gmail.com**
+- 📫 How to reach me **alaotosiworthy@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
 
